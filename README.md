@@ -1,2 +1,2 @@
-#feature branch
+#feature-branch
 hello
